@@ -1,0 +1,7 @@
+
+RUNPOD_HOST=$1
+RUNPOD_PORT=$2
+RUNPOD_PROJECT_NAME=$3
+
+scp -p ${RUNPOD_PORT} *.py root@${RUNPOD_HOST}:/app/${RUNPOD_PROJECT_NAME}
+scp -p ${RUNPOD_PORT} requirement.txt root@${RUNPOD_HOST}:/app/${RUNPOD_PROJECT_NAME}
