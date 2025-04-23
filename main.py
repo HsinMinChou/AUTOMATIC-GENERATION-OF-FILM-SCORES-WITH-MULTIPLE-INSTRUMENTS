@@ -1,10 +1,5 @@
 #!/usr/bin/env python
-"""
-test_video_emotion.py
 
-此腳本示範如何呼叫 video_emotion_helper 模組中的 VideoEmotionFeatureExtractor 物件，
-並處理名為 test.mp4 的影片，最後印出萃取結果。
-"""
 from openaitool import ChatGPTResponder
 from video_emotion_helper import VideoEmotionFeatureExtractor
 from music_gen_helper import StableAudioHelper
