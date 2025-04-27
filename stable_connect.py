@@ -56,7 +56,7 @@ class StableAudioGenerator:
             "mask_maskend": seconds_total,
             "inpaint_audio": None
         }
-        # Call API
+
         raw_result = self.client.predict(**params, api_name="/generate")
         # Extract the default-generated file path
         wav_path = Path(raw_result[0]).resolve()
