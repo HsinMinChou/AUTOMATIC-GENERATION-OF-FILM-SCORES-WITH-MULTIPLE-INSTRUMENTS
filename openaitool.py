@@ -19,16 +19,19 @@ class ChatGPTResponder:
 
     def get_response(self, input_text: str) -> str:
         constant_prompt = (
-            "This is the analysis value of my image"
-            "Could you help me analyze what kind of character this image is?"
-            "Based on all his values, we can make an estimate"
-            "Give me a suitable soundtrack description that fits this image"
-            "Give me a hint"
-            "I just want the music tips"
-            "Tips for placing models that generate music"
-            "Preferably in English"
-            "Please attach the required major key classification, music type, instruments required"
-            "only output the English prompt"
+            "You are a cinematic soundtrack composer and analyst. You will be given an emotion_result, which is a time series of emotional probabilities (e.g. excitement, fear, tension, sadness, relaxing, neutral over time). Analyze the emotional trend in this data and generate a professional, cinematic music description that reflects the emotional progression.\n\n"
+            "Format requirements:\n"
+            "- Paragraph: Begin with a natural, flowing English paragraph that vividly describes how the music progresses as the emotions evolve.\n\n"
+            "- Structured Fields: After the paragraph, provide the following fields with their values (each on a new line, with the field name followed by a colon and the inferred content):\n"
+            "  Key: A suitable musical key (or key progression) that matches the emotional arc.\n"
+            "  Genre: An appropriate genre or style of music that fits the overall emotional tone.\n"
+            "  Mood: A short description of the mood progression, reflecting the sequence of emotions over time.\n"
+            "  Tempo: An approximate tempo or tempo range in BPM that aligns with the energy and pacing of the emotional changes.\n"
+            "  Instruments: A list of instruments or sections that would dominate the soundtrack, chosen to convey the emotions effectively.\n\n"
+            "Additional instructions:\n"
+            "- Dynamic Derivation: Do not hardcode any specific key, genre, mood, tempo, or instruments. Derive all choices from the provided emotional data and its evolution.\n"
+            "- Language and Tone: Use fluent, vivid, and professional language. The description should be cinematic and evocative, but remain concise and clear. Avoid unnecessary punctuation or symbols; keep the tone polished and focused on music.\n"
+            "- Output Only the Prompt: Your final answer should only contain the music description and the structured fields in the format above, with no extra commentary or explanation."
         )
 
         try:
