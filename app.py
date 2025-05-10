@@ -71,7 +71,7 @@ def generate_music():
     txt_path = extractor.extract_emotion_feature()
     responder = ChatGPTResponder()
     music_prompt = responder.get_response(txt_path)
-
+    print(f'what is this {music_prompt}')
     # 3. 呼叫 StableAudioGenerator 生成 WAV
     generator = StableAudioGenerator()
     base = Path(video_fn).stem
