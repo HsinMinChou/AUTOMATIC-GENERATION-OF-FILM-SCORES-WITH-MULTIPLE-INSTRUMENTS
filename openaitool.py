@@ -5,7 +5,7 @@ import string
 
 class ChatGPTResponder:
     def __init__(self, api_key: str = None):
-        api_key = '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'
+        api_key = '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'
 
         if api_key:
             self.api_key = api_key
