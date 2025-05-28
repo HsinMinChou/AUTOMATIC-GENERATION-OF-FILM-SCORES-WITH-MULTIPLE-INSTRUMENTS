@@ -1,6 +1,6 @@
 # AUTOMATIC GENERATION OF FILM SCORES WITH MULTIPLE INSTRUMENTS
 
-<img width="589" alt="Screenshot" src="https://drive.google.com/uc?export=view&id=1ylfiK5EeZwyPatIDGGj5dS5i-xc7H4uQ" />
+<img width="1000" alt="Screenshot" src="https://drive.google.com/uc?export=view&id=1ylfiK5EeZwyPatIDGGj5dS5i-xc7H4uQ" />
 
 https://drive.google.com/file/d/11kRJQ7vKXp4Y8ML4B65mTfsEFCqosYct/view?usp=drive_link
 ## Project Overview
