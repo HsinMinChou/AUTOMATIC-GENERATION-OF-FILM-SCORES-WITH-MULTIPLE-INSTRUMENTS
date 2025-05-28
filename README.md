@@ -4,7 +4,7 @@
 
 
 
-[Demo](https://app.video2music40900.org/) | [Website and Examples](https://www.hsinminchou.com/) | [Paper] | [Dataset (FilmScore12)](https://www.hsinminchou.com/film-music) | [Dataset FilmScore12 Github-Link] （https://github.com/HsinMinChou/FilmScore12）
+[Demo](https://app.video2music40900.org/) | [Website and Examples](https://www.hsinminchou.com/) | [Paper] | [Dataset (FilmScore12)](https://www.hsinminchou.com/film-music) | [Dataset FilmScore12 Github-Link](https://github.com/HsinMinChou/FilmScore12)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/amaai-lab/video2music)  [![arXiv](https://img.shields.io/badge/arXiv-2311.00968-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2311.00968)
 
