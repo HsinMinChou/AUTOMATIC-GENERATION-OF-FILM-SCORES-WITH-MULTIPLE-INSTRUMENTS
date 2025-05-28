@@ -5,10 +5,11 @@
 
 
 [AI System](https://app.video2music40900.org/) | [HSINMIN GLOBAL MUSIC PRODUCTION CORPORATION Official Website](https://www.hsinminchou.com/) | [Paper] | [Dataset (FilmScore12)](https://www.hsinminchou.com/film-music) 
+</div>
 
 ## Introduction
 We propose a fully‐automated, four‐stage framework for film score generation that tightly couples multimodal video understanding with large‐language‐model‐driven planning and latent diffusion synthesis. We train and evaluate our system on the new FilmScore12 dataset of 418 paired video–music clips spanning 12 cinematic genres. Objective metrics (loudness, spectral coverage, dynamic contrast) and ablation studies confirm the importance of each feature modality, while a filmmaker user study rates 85 % of generated drafts as immediately useful. We utilize FilmScore12 and our full codebase to catalyze further research in emotion‐aware, context‐driven AI film scoring.
-</div>
+
 
 <img width="1000" alt="Screenshot" src="https://drive.google.com/uc?export=view&id=1ylfiK5EeZwyPatIDGGj5dS5i-xc7H4uQ" />
 
