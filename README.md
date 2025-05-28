@@ -1,4 +1,7 @@
 # AUTOMATIC GENERATION OF FILM SCORES WITH MULTIPLE INSTRUMENTS
+
+![Uploading Model4.png…]()
+
 https://drive.google.com/file/d/11kRJQ7vKXp4Y8ML4B65mTfsEFCqosYct/view?usp=drive_link
 ## Project Overview
 
