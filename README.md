@@ -6,6 +6,13 @@
 
 [AI System](https://app.video2music40900.org/) | [HSINMIN GLOBAL MUSIC PRODUCTION CORPORATION Official Website](https://www.hsinminchou.com/) | [Paper] | [Dataset (FilmScore12)](https://www.hsinminchou.com/film-music) | [Dataset FilmScore12 Github-Link](https://github.com/HsinMinChou/FilmScore12)
 
+<a href="https://app.video2music40900.org/" target="_blank" rel="noopener noreferrer">AI System</a> |
+<a href="https://www.hsinminchou.com/" target="_blank" rel="noopener noreferrer">HSINMIN GLOBAL MUSIC PRODUCTION CORPORATION Official Website</a> |
+<a href="https://www.hsinminchou.com/your-paper-link" target="_blank" rel="noopener noreferrer">Paper</a> |
+<a href="https://www.hsinminchou.com/film-music" target="_blank" rel="noopener noreferrer">Dataset (FilmScore12)</a> |
+<a href="https://github.com/HsinMinChou/FilmScore12" target="_blank" rel="noopener noreferrer">Dataset FilmScore12 Github-Link</a>
+
+
 
 </div>
 
