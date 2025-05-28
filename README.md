@@ -24,6 +24,9 @@ Demo3
 
 https://drive.google.com/drive/u/2/home
 
+## Introduction
+We propose a fully‐automated, four‐stage framework for film score generation that tightly couples multimodal video understanding with large‐language‐model‐driven planning and latent diffusion synthesis. We train and evaluate our system on the new FilmScore12 dataset of 418 paired video–music clips spanning 12 cinematic genres. Objective metrics (loudness, spectral coverage, dynamic contrast) and ablation studies confirm the importance of each feature modality, while a filmmaker user study rates 85 % of generated drafts as immediately useful. We release FMT and our full codebase to catalyze further research in emotion‐aware, context‐driven AI film scoring.
+
 ## Project Overview
 
 This repository implements a complete backend service that:
