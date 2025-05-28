@@ -4,7 +4,7 @@
 
 
 
-[Demo]([https://huggingface.co/spaces/amaai-lab/video2music](https://app.video2music40900.org/)) | [Website and Examples](https://amaai-lab.github.io/Video2Music/) | [Paper](https://doi.org/10.1016/j.eswa.2024.123640) | [Dataset (MuVi-Sync)](https://zenodo.org/records/10057093)
+[Demo](https://app.video2music40900.org/)） | [Website and Examples](https://amaai-lab.github.io/Video2Music/) | [Paper](https://doi.org/10.1016/j.eswa.2024.123640) | [Dataset (MuVi-Sync)](https://zenodo.org/records/10057093)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/amaai-lab/video2music)  [![arXiv](https://img.shields.io/badge/arXiv-2311.00968-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2311.00968)
 
