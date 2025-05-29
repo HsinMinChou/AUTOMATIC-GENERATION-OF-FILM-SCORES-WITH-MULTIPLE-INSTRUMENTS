@@ -4,7 +4,7 @@
 
 
 
-[AI System](https://app.video2music40900.org/) | [HSINMIN GLOBAL MUSIC PRODUCTION CORPORATION Official Website](https://www.hsinminchou.com/) | [Paper] | [Dataset (FilmScore12)](https://www.hsinminchou.com/film-music) 
+[AI System](https://www.hsinminchou.com/ai-music-generation-system) | [HSINMIN GLOBAL MUSIC PRODUCTION CORPORATION Official Website](https://www.hsinminchou.com/) | [Paper] | [Dataset (FilmScore12)](https://www.hsinminchou.com/film-music) 
 </div>
 
 ## Introduction
